@@ -1,3 +1,3 @@
 1.1
-e16e2db684041cb09a982aef71d108a5  testnewconfigfile1.1
+e16e2db684041cb09a982aef71d108a5  testnewconfigfile
 Base file set
