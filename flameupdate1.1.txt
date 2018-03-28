@@ -1,2 +1,2 @@
-This adds a new 'testfile' to test rollback
+This adds a new 'testfile2' to test rollback
  - will remove this for prior version
