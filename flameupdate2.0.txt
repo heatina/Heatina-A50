@@ -1,1 +1,0 @@
-Test creation of testfile1.txt and testfile2.txt in automate
